@@ -24,7 +24,7 @@ Foafs Ultimate Logger V1
 # Preview
 ![Screenshot_of_Product](https://i.imgur.com/OcbqlsO.png)
 
-# What is it?
+# What is it
 
 The Ultimate Logger is basically an all-in-one log for players entering and leaving the server with in-depth identifiers that define who the player is with Steam Hex, Xbox Live ID, Discord and Discord ID, Game License, and more that are printed in a log to tell you who is who and easy to identify alt accounts and potential ban evasion from your server with simple identifiers to cross refrence your players.
 
