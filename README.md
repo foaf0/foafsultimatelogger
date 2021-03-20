@@ -44,4 +44,4 @@ The Ultimate Logger is basically an all-in-one log for players entering and leav
 if you still need further help please join the [Discord](https://discord.gg/SdWw3F7WM5) and open a ticket.
 
 # Version
-1.0
+1.1
